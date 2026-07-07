@@ -21,3 +21,11 @@ Kod mimarisi, veri temizliği ve modelleme adımları tamamen doğru olmasına r
 Kullanılan Kaggle veri seti gerçek hayattan toplanmamış, **bilgisayar tarafından rastgele (sentetik) üretilmiştir.** Öznitelikler (Yıl, Kilometre, Yakıt vb.) ile hedef değişken (Fiyat) arasında doğrusal hiçbir matematiksel bağ bulunmamaktadır (Yazılım dilinde **Pure Noise / Saf Gürültü** durumu). 
 
 Bu proje, model başarısını maksimize etmekten ziyade, **gerçek bir veri ön işleme ve modelleme hattı (pipeline) inşa etmek** amacıyla tamamlanmıştır.
+
+
+
+## 📂 Veri Seti Kaynağı (Dataset Citation)
+Bu projede kullanılan veri seti, Kaggle platformu üzerinden **Hruthika Lakshmi H P** tarafından paylaşılan halka açık araç özelliklerini içermektedir. 
+* **Veri Seti Sahibi:** Hruthika Lakshmi H P
+* **Platform:** Kaggle
+* **Link:** https://www.kaggle.com/datasets/hruthikalakshmihp/car-prediction-dataset
